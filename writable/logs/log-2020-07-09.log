@@ -1,0 +1,30 @@
+CRITICAL - 2020-07-09 16:30:25 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\public_html\mtf\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\teklifformu->index()
+#1 C:\xampp\htdocs\public_html\mtf\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\teklifformu))
+#2 C:\xampp\htdocs\public_html\mtf\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public_html\mtf\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-09 16:30:54 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\public_html\mtf\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\teklifformu->index()
+#1 C:\xampp\htdocs\public_html\mtf\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\teklifformu))
+#2 C:\xampp\htdocs\public_html\mtf\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public_html\mtf\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-09 16:37:34 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\public_html\mtf\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\teklifformu->index()
+#1 C:\xampp\htdocs\public_html\mtf\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\teklifformu))
+#2 C:\xampp\htdocs\public_html\mtf\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public_html\mtf\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-09 17:17:10 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\public_html\mtf\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\teklifformu->index()
+#1 C:\xampp\htdocs\public_html\mtf\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\teklifformu))
+#2 C:\xampp\htdocs\public_html\mtf\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public_html\mtf\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-07-09 17:17:59 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\public_html\mtf\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\teklifformu->index()
+#1 C:\xampp\htdocs\public_html\mtf\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\teklifformu))
+#2 C:\xampp\htdocs\public_html\mtf\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public_html\mtf\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
